@@ -6,3 +6,4 @@ The cleaning, transforming and analysis process is done in Jupyter Notebook with
 each step with some documentation.
 
 Also, inside the notebook is the final Machine Learning solution found with `optim.py` and `training.py`.
+For easy upload, remember to download Wine reviews data from Zinicide
